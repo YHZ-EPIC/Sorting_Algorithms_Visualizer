@@ -1,10 +1,5 @@
-
-# Visualization of Sorting Algorithms
-
-<font style="color:#fff; font-family: 'Bebas Neue'; 
-font-size: 3.5ch">
-
-A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
+# Sorting_Algorithms_Visualizer
+ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
 
 ## Abstract
     The idea behind this project is to compare the performance 
