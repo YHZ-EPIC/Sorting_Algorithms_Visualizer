@@ -7,16 +7,19 @@ font-size: 3.5ch">
 A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
 
 ## Abstract
+
     The idea behind this project is to compare the performance 
     of different algorithms while also visualizing them.
 
 ## Introduction
 
-    The program I developed contains all the necessary features that satisfy the overall purpose of this project. It is Interactive 
-    and has Graphical User Interface (GUI) 
+    The program I developed contains all the necessary 
+    features that satisfy the overall purpose of this project. 
+    It is Interactive and has Graphical User Interface (GUI) 
     which makes it easy to use.
 
 ## Features and Working
+
     1. Ability to Select Desired Algorithms from Menu.
 
     2. Ability to Select Desired File Containing the Data from Menu.
@@ -25,7 +28,9 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
     
     4. After Selecting the Desired Options, User can Click on Buttons to get the Desired Output.
     
-    5. User Can See the Data being Sorted in Real time in form of Blue Sticks, Height of Stick represents the Size of the value.
+    5. User Can See the Data being Sorted in Real time in form of Blue Sticks, 
+    Height of Stick 
+    represents the Size of the value.
     
     6. When all Sticks turn Green then it means Array is Sorted.
     
@@ -40,7 +45,8 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
     Selected file.
 
     2. “Generate Random Array" Button, Creates Random Data 
-    after Opening a new Dialog Box asking User to Enter Size of 
+    after 
+    Opening a new Dialog Box asking User to Enter Size of 
     Data to be generated.
 
     3. “Sort" Button, Starts Sorting the Data from Selected 
@@ -50,7 +56,8 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
 ## Design and Tools
 
     This program is developed in “Python Programming Language". 
-    Python is both convenient and very popular language among Scientists, Engineers and Programmers.
+    Python is both convenient and very popular language among 
+    Scientists, Engineers and Programmers.
     Python has many Libraries to Achieve Different Tasks.
     For the GUI of this Program a library called “Tkinter" is used.
 
