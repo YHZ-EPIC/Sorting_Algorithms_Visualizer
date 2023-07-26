@@ -26,15 +26,16 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
 
     3. Ability to Select Speed of Sorting During Visualization.
     
-    4. After Selecting the Desired Options, User can Click on Buttons to get the Desired Output.
+    4. After Selecting the Desired Options, User can Click on Buttons 
+    to get the Desired Output.
     
     5. User Can See the Data being Sorted in Real time in form of Blue Sticks, 
-    Height of Stick 
-    represents the Size of the value.
+    Height of Stick represents the Size of the value.
     
     6. When all Sticks turn Green then it means Array is Sorted.
     
-    7. After All the Data is Sorted then a New Window pops up, Showing the Final Sorted Array.
+    7. After All the Data is Sorted then a New Window pops up, 
+    Showing the Final Sorted Array.
     
     8. User can also see Both Unsorted and Sorted Arrays printed on Console
 
@@ -44,10 +45,8 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
     1. "Generate Array from File" Button, Reads Data from the 
     Selected file.
 
-    2. “Generate Random Array" Button, Creates Random Data 
-    after 
-    Opening a new Dialog Box asking User to Enter Size of 
-    Data to be generated.
+    2. “Generate Random Array" Button, Creates Random Data after 
+    Opening a new Dialog Box asking User to Enter Size of Data to be generated.
 
     3. “Sort" Button, Starts Sorting the Data from Selected 
     Algorithm from Menu.
