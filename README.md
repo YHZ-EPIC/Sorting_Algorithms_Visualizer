@@ -45,8 +45,8 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
     1. "Generate Array from File" Button, Reads Data from the 
     Selected file.
 
-    2. “Generate Random Array" Button, Creates Random Data after 
-    Opening a new Dialog Box asking User to Enter Size of Data to be generated.
+    2. “Generate Random Array" Button, Creates Random Data after Opening 
+    a new Dialog Box asking User to Enter Size of Data to be generated.
 
     3. “Sort" Button, Starts Sorting the Data from Selected 
     Algorithm from Menu.
