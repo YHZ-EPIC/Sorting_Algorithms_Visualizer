@@ -11,6 +11,14 @@ A GUI based Sorting Algorithm Visualizer using Python Tkinter Library.
     The idea behind this project is to compare the performance 
     of different algorithms while also visualizing them.
 
+## Installation
+
+Install Tkinter Library using pip
+
+```python
+  pip install tk
+```
+
 ## Introduction
 
     The program I developed contains all the necessary 
