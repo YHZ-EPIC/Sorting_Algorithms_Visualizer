@@ -81,9 +81,11 @@ The Resources and Tools Used to Develop this Program,
     Interpreter : Python 3.11.0
 </b>
 
-Results
-In this Section, Basic GUI and Its Navigation will be shown in form of 
-Screenshots. Furthermore the Output and Results are also displayed.
+## Results
+
+    In this Section, Basic GUI and Its Navigation will be shown in form of 
+    Screenshots.
+    Furthermore the Output and Results are also displayed.
 
 * Basic Look of the Interface
 
