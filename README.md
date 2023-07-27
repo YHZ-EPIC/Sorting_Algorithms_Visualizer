@@ -81,4 +81,63 @@ The Resources and Tools Used to Develop this Program,
     Interpreter : Python 3.11.0
 </b>
 
+Results
+In this Section, Basic GUI and Its Navigation will be shown in form of 
+Screenshots. Furthermore the Output and Results are also displayed.
+
+* Basic Look of the Interface
+
+    ![Alt text](Demo/image.png)
+
+* Drop-Down Menus
+
+    1. For Selecting Algorithms
+
+        ![Alt text](Demo/image-1.png)
+
+    2.  For Selecting Input Files
+
+        ![Alt text](Demo/image-2.png)
+
+* Canvas Showing Data Sticks
+
+    ![Alt text](Demo/image-3.png)
+
+* Canvas After Data is Sorted
+
+    ![Alt text](Demo/image-4.png)
+
+* Dialog Box for User Input
+
+    ![Alt text](Demo/image-5.png)
+
+* Output Window
+
+    ![Alt text](Demo/image-6.png)
+
+* Console Window
+
+    ![Alt text](Demo/image-7.png)
+
+## Conclusion
+
+    This Program can be beneficial for academic purposes and can help 
+    students understand both the working and complexity of these 
+    commonly used algorithms. It is user friendly and easy to work with.
+
+## References
+
+Official Tkinter Documentation:
+
+https://docs.python.org/3/library/tk.html
+
+Official Python 3.11.0 Documentation:
+
+https://docs.python.org/3/
+
+Fundamentals of Algorithms by GeeksforGeeks:
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+
 </font>
