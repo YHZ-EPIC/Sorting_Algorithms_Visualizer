@@ -84,8 +84,7 @@ The Resources and Tools Used to Develop this Program,
 ## Results
 
     In this Section, Basic GUI and Its Navigation will be shown in form of 
-    Screenshots.
-    Furthermore the Output and Results are also displayed.
+    Screenshots. Furthermore the Output and Results are also displayed.
 
 * Basic Look of the Interface
 
